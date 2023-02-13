@@ -20,7 +20,7 @@ export const Splash = ({ navigation }: NavigationProps) => {
                 color={"warmGray.100"}
                 fontSize="md"
             >
-                Seu aplicativo favorito de afarezes
+                Seu aplicativo favorito para registro de tarefas
             </Text>
         </Box>
     );
